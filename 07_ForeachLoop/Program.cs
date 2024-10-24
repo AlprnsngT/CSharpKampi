@@ -10,7 +10,7 @@ namespace _07_ForeachLoop
     {
         static void Main(string[] args)
         {
-            //Yedinci Ders 
+            //Yedinci Ders. 
             #region Foreach Döngüsü
             /*
             string[] cities = { "milano", "roma", "budapeşte", "ankara", "istanbul", "varşova" };
