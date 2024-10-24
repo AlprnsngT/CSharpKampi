@@ -10,7 +10,7 @@ namespace _05_LoopsWithStars
     {
         static void Main(string[] args)
         {
-            //Beşinci Ders
+            //Beşinci Ders.
 
             #region Alt alta 10 tane yıldız oluşturma 
 
