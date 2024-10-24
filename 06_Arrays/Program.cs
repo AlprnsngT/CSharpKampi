@@ -10,7 +10,7 @@ namespace _06_Arrays
     {
         static void Main(string[] args)
         {
-            //Altıncı Ders
+            //Altıncı Ders.
 
             #region Temel Dizi Örnekleri
             /*
