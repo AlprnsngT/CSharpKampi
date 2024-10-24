@@ -10,7 +10,7 @@ namespace _01_MainSubjects
     {
         static void Main(string[] args)
         {
-
+            //İlk Ders
             #region Yazdırma Komutları
             /*
             Console.WriteLine("Merhaba Dünya!");
