@@ -11,6 +11,7 @@ namespace _08_Methods
     {
         static void Main(string[] args)
         {
+            //Sekizinci Ders
 
             #region Void Metotlar
             /*
