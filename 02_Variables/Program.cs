@@ -10,7 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
-            //İkinci Ders
+            //İkinci Ders.
 
             #region Double Değişkenler
             /*
