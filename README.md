@@ -30,7 +30,7 @@ Bu projede, ADO.NET kullanarak bir SQL veritabanına bağlantı kurmayı ve veri
   #### SqlDataAdapter: C# uygulaması ile SQL Server arasında veri transferi yapar. SqlCommand ile oluşturulan komutu kullanarak verileri çekip DataTable gibi bir nesneye doldurur.
   #### DataTable: Verileri bellekte geçici olarak saklar ve işlemeyi sağlar. DataTable içindeki verilere kolayca erişebilir ve işleyebilirsiniz.
 
-⚡ Proje 10: Dinamik Veritabanı CRUD İşlemleri (10_DatabaseCRUD)
+## ⚡ Proje 10: Dinamik Veritabanı CRUD İşlemleri (10_DatabaseCRUD)
 Bu projede, ADO.NET kullanarak SQL veritabanında CRUD (Create, Read, Update, Delete) işlemlerini kullanıcı girdilerine dayalı olarak dinamik bir şekilde gerçekleştirmeyi öğrendim. Bu sayede kullanıcıların kategori ve ürün bilgilerini yönetebilmeleri sağlandı. Proje süresince:
   #### Veri Ekleme (Create): Kategori ve ürün adında yeni kayıtların eklenmesini sağladım.
   #### Veri Listeleme (Read): Ürün ve kategori verilerini listeleyerek güncel kayıtları kullanıcıya sundum.
