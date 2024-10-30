@@ -22,3 +22,18 @@ Bu projede, foreach döngüsünü kullanarak dizilerdeki tüm öğeleri daha bas
 
 ## ⚡ Proje 8: Metotlar (08_Methods)
 Bu projede, daha düzenli ve okunabilir kod yazmayı sağlamak için metotlar oluşturdum. Parametre alarak işlem yapan ve sonuç döndüren metotlarla programları modüler hale getirdim.
+
+## ⚡ Proje 9: Database Connection (09_DatabaseConnection)
+Bu projede, ADO.NET kullanarak bir SQL veritabanına bağlantı kurmayı ve verileri çekmeyi öğrendim. SQL bağlantısı oluşturarak kullanıcıdan alınan tablo numarasına göre kategori, ürün veya sipariş gibi verilere ulaşmayı sağladım. Proje kapsamında:
+  #### SqlConnection: SQL sunucusuna bağlantı sağlamak için kullanılır. Bağlantı açıldıktan sonra, veritabanıyla iletişim kurulabilir.
+  #### SqlCommand: SQL sorgularını veya komutlarını veritabanına göndermek için kullanılır. Bu komutlar, Select, Insert, Update, Delete gibi işlemler olabilir.
+  #### SqlDataAdapter: C# uygulaması ile SQL Server arasında veri transferi yapar. SqlCommand ile oluşturulan komutu kullanarak verileri çekip DataTable gibi bir nesneye doldurur.
+  #### DataTable: Verileri bellekte geçici olarak saklar ve işlemeyi sağlar. DataTable içindeki verilere kolayca erişebilir ve işleyebilirsiniz.
+
+## ⚡ Proje 10: Dinamik Veritabanı CRUD İşlemleri (10_DatabaseCRUD)
+Bu projede, ADO.NET kullanarak SQL veritabanında CRUD (Create, Read, Update, Delete) işlemlerini kullanıcı girdilerine dayalı olarak dinamik bir şekilde gerçekleştirmeyi öğrendim. Bu sayede kullanıcıların kategori ve ürün bilgilerini yönetebilmeleri sağlandı. Proje süresince:
+  #### Veri Ekleme (Create): Kategori ve ürün adında yeni kayıtların eklenmesini sağladım.
+  #### Veri Listeleme (Read): Ürün ve kategori verilerini listeleyerek güncel kayıtları kullanıcıya sundum.
+  #### Veri Güncelleme (Update): Mevcut ürünlerin ad ve fiyat bilgilerini değiştirme imkanı sundum.
+  #### Veri Silme (Delete): Ürünlerin veritabanından kalıcı olarak silinmesini sağladım.
+Parametrik SQL komutlarıyla (örn. @productName, @productId) kullanıcı verilerini güvenli bir şekilde veritabanına işleyerek SQL enjeksiyonlarına karşı koruma sağladım. Bu proje sayesinde, dinamik ve kullanıcı girdileriyle çalışan bir veritabanı yönetim sistemi oluşturma becerimi geliştirdim.
