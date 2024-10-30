@@ -1,0 +1,20 @@
+Concrete: Somut ifadeler demek. Sýnýflar burada tanýmlanacak
+
+CodeFirst Yaklaþýmý :
+	* C# ile sql de çalýþýrken sqldeki tablolara biz queryler gönderiyorduk
+	* Artýk biz classlar aracýlýðý ile sql de tablolar oluþturacaðýz
+	* propertyler ile tablolarýn columnlarý oluþacak
+	* DEÐERLER veritabanýna gönderilirken PROPERTY olarak gönderilmeli
+
+Access Modifiers:
+	* public : solution içerisindeki bütün katmanlardan kullanýlýr
+	* private : sadece tanýmlý olduðu class da kullanýlýr
+	* internal : sadece bulunduðu katman içeriside kullanýlabilir
+				 katman içerisindeki diðer sýnýflarda kullanýlabilir
+	* protected : sýnýfý miras alan yerlerde kullanýlýr.
+
+Field - Variable - Property
+	* field : direk olarak bir sýnýf içerisinde tanýmlanýyorsa
+	* variable(deðiþken): eðer bir method içerisinde tanýmlanýyorsa
+	* property: bir sýnýf içerisinde get ve set içerisinde kullanýlýr
+
