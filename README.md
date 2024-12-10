@@ -1,4 +1,4 @@
-# 📚 C# Eğitim Kampı Projeleri
+![Ekran görüntüsü 2024-12-11 024225](https://github.com/user-attachments/assets/db1ad934-8c0b-4dd6-98ed-5e7418899e55)# 📚 C# Eğitim Kampı Projeleri
 Bu repo, C# Eğitim Kampı süresince tamamladığım projeleri içermektedir. Her proje, belirli programlama kavramlarını öğrenmeme ve pratiğe dökmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
 ## ⚡ Proje 1: Kampa Giriş (01_MainSubjects)
 Bu proje ile C# dilinin temel yapı taşlarını inceledim. Programın yapısına ve sözdizimine dair önemli kavramları öğrenerek, yazılım geliştirmenin temellerini anladım.
@@ -37,3 +37,6 @@ Bu projede, ADO.NET kullanarak SQL veritabanında CRUD (Create, Read, Update, De
   #### Veri Güncelleme (Update): Mevcut ürünlerin ad ve fiyat bilgilerini değiştirme imkanı sundum.
   #### Veri Silme (Delete): Ürünlerin veritabanından kalıcı olarak silinmesini sağladım.
 Parametrik SQL komutlarıyla (örn. @productName, @productId) kullanıcı verilerini güvenli bir şekilde veritabanına işleyerek SQL enjeksiyonlarına karşı koruma sağladım. Bu proje sayesinde, dinamik ve kullanıcı girdileriyle çalışan bir veritabanı yönetim sistemi oluşturma becerimi geliştirdim.
+## ⚡Entity FrameWork Methodları Kullanımı
+Entity Framework metodları ile C# form uygulaması kullanarak geliştirdiğim projenin arayüzüne ait bir ekran görüntüsünü aşağıda bulabilirsiniz.
+![resim_2024-12-11_024614483](https://github.com/user-attachments/assets/36d66954-7553-416e-b516-99f46a5f6bda)
